@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on jocantu</title>
-    <link>https://jocantu.dev/categories/</link>
+    <link>https://www.jocantu.dev/categories/</link>
     <description>Recent content in Categories on jocantu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 May 2021 23:44:33 -0500</lastBuildDate><atom:link href="https://jocantu.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 May 2021 23:44:33 -0500</lastBuildDate><atom:link href="https://www.jocantu.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dev</title>
-      <link>https://jocantu.dev/categories/dev/</link>
+      <link>https://www.jocantu.dev/categories/dev/</link>
       <pubDate>Sat, 08 May 2021 23:44:33 -0500</pubDate>
       
-      <guid>https://jocantu.dev/categories/dev/</guid>
+      <guid>https://www.jocantu.dev/categories/dev/</guid>
       <description></description>
     </item>
     

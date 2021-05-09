@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on jocantu</title>
-    <link>https://jocantu.dev/tags/</link>
+    <link>https://www.jocantu.dev/tags/</link>
     <description>Recent content in Tags on jocantu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 May 2021 23:44:33 -0500</lastBuildDate><atom:link href="https://jocantu.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 May 2021 23:44:33 -0500</lastBuildDate><atom:link href="https://www.jocantu.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dev</title>
-      <link>https://jocantu.dev/tags/dev/</link>
+      <link>https://www.jocantu.dev/tags/dev/</link>
       <pubDate>Sat, 08 May 2021 23:44:33 -0500</pubDate>
       
-      <guid>https://jocantu.dev/tags/dev/</guid>
+      <guid>https://www.jocantu.dev/tags/dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://jocantu.dev/tags/hugo/</link>
+      <link>https://www.jocantu.dev/tags/hugo/</link>
       <pubDate>Sat, 08 May 2021 23:44:33 -0500</pubDate>
       
-      <guid>https://jocantu.dev/tags/hugo/</guid>
+      <guid>https://www.jocantu.dev/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hyde-hyde</title>
-      <link>https://jocantu.dev/tags/hyde-hyde/</link>
+      <link>https://www.jocantu.dev/tags/hyde-hyde/</link>
       <pubDate>Sat, 08 May 2021 23:44:33 -0500</pubDate>
       
-      <guid>https://jocantu.dev/tags/hyde-hyde/</guid>
+      <guid>https://www.jocantu.dev/tags/hyde-hyde/</guid>
       <description></description>
     </item>
     
