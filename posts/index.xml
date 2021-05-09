@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on jocantu</title>
-    <link>http://example.org/posts/</link>
+    <link>https://jocantu.dev/posts/</link>
     <description>Recent content in Posts on jocantu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 May 2021 23:41:31 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 May 2021 23:41:31 -0500</lastBuildDate><atom:link href="https://jocantu.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gender Inequality In Street Names In Torreón, Coah. México</title>
-      <link>http://example.org/posts/gendermap/</link>
+      <link>https://jocantu.dev/posts/gendermap/</link>
       <pubDate>Sat, 08 May 2021 23:41:31 -0500</pubDate>
       
-      <guid>http://example.org/posts/gendermap/</guid>
+      <guid>https://jocantu.dev/posts/gendermap/</guid>
       <description>Insert Lead paragraph here.
 Some days ago I heard at a local radio station a note about the gender inequality in streets names at my city, and this facts is repeated at different degrees all around the world but it is always interesting to analyze the local situation.
 How many streets are named after women figures? I know the tools so I decided to create a map to understand in a visual way where are these streets located.</description>
