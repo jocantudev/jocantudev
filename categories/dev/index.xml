@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dev on jocantu</title>
+    <link>http://example.org/categories/dev/</link>
+    <description>Recent content in dev on jocantu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 May 2021 23:44:33 -0500</lastBuildDate><atom:link href="http://example.org/categories/dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 08 May 2021 23:44:33 -0500</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Insert Lead paragraph here.
+A augue nunc lacus auctor efficitur tempor placerat, dictum volutpat mi vitae viverra porta non sem, himenaeos senectus vivamus potenti cubilia sollicitudin. Curae cursus inceptos tincidunt magna mi nibh ad enim etiam, molestie eu quis primis hendrerit taciti phasellus. Feugiat ultricies dictumst iaculis potenti odio laoreet urna at, ultrices curae leo accumsan proin sem lobortis.
+Heading 2 Sollicitudin ornare odio blandit aenean enim lacus accumsan elementum vestibulum porta mauris lorem, ullamcorper class fermentum sem hendrerit ante augue penatibus scelerisque felis leo proin,ad nascetur venenatis sodales dignissim viverra suspendisse turpis convallis condimentum sapien.</description>
+    </item>
+    
+    <item>
+      <title>Gender Inequality In Street Names In Torreón, Coah. México</title>
+      <link>http://example.org/posts/gendermap/</link>
+      <pubDate>Sat, 08 May 2021 23:41:31 -0500</pubDate>
+      
+      <guid>http://example.org/posts/gendermap/</guid>
+      <description>Insert Lead paragraph here.
+Some days ago I heard at a local radio station a note about the gender inequality in streets names at my city, and this facts is repeated at different degrees all around the world but it is always interesting to analyze the local situation.
+How many streets are named after women figures? I know the tools so I decided to create a map to understand in a visual way where are these streets located.</description>
+    </item>
+    
+  </channel>
+</rss>
