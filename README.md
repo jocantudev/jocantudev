@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **GeoDjango**
 
-- 👨‍💻 All of my projects are available at [www.jocantu.dev](www.jocantu.dev)
-
 - 💬 Ask me about **Leaflet Maps**
 
 - 📫 How to reach me **www.jocantu.dev**
